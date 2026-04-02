@@ -698,6 +698,9 @@ footer{
     width: 50%;
 }
 
+
+
+
 /* CATEGORY SECTION  */
 .c-category{
     margin-top: 10%;
@@ -713,6 +716,7 @@ footer{
 .c-category h5{
     text-align: center;
     font-size: 1.4rem;
+    color: #757575;
 }
 
 .cat-boxes{
@@ -760,6 +764,25 @@ footer{
     text-align: center;
     padding: 3% 10%;
 }
+
+.resources h1{
+    font-size: 3rem;
+}
+
+
+.resources h6{
+    font-size: 1.5rem;
+    color: #757575;
+} 
+.resources p{
+    font-size: 0.8rem;
+    color: #757575;
+} 
+.resources h5{
+    font-size: 1.3rem;
+    color: #757575;
+} 
+
 
 
 .box-cont{
