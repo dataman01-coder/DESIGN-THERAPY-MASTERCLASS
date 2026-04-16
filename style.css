@@ -851,3 +851,19 @@ footer{
 .rigt-s img{
     width:30px;
 }
+
+
+/* COUPON CODES SECTION */
+.top-head{
+    height: 60%;
+    width:100%;
+    background-color: #feb67f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-head h1{
+    font-size: 4rem;
+    color: #fff;
+}
