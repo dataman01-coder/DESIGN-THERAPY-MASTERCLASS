@@ -912,7 +912,7 @@ footer{
 }
 .disc-codes h1{
     text-align: center;
-    margin-top: 7%;
+    margin-top: 10%;
 }
 
 
@@ -920,7 +920,7 @@ footer{
     text-align: center;
     font-size: 1.1rem;
     color:#48494c;
-    margin-bottom: 7%;
+    margin-bottom: 10%;
 }
 
 .disc-codes h1{
@@ -957,6 +957,36 @@ footer{
 }
 
 
+.use{
+    margin: 0 auto;
+    width:60%;
+}
 
 
+.use h1{
+    margin-top: 10%;
+    text-align: center;
+    font-size: 2rem;
+}
 
+.use p{
+    text-align: center;
+}
+
+.description p{
+    text-align: left;
+}
+
+.step{
+    display: flex;
+    gap:10px;
+    background-color: #f3f6fa;
+    padding: 10px 20px;
+    margin:30px;
+}
+
+.step .num{
+    background-color: #f87911;
+    padding: 15px;
+    border-radius: 50%;
+}
