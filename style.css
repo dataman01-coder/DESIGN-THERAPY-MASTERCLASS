@@ -111,7 +111,7 @@ nav{
 
 
 .hero h1{
-    font-size: 100px;
+    font-size: 90px;
     line-height: 90px;
     margin-top: 40px;
 }
@@ -855,15 +855,67 @@ footer{
 
 /* COUPON CODES SECTION */
 .top-head{
-    height: 60%;
+    height: 80%;
     width:100%;
     background-color: #feb67f;
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 .top-head h1{
-    font-size: 4rem;
-    color: #fff;
+    font-size: 3rem;
+    color: #000000;
+    margin: 20px 0;
 }
+
+.top-head h5{
+    color: #fff;
+    background: #ff7700;
+    padding: 10px 19px;
+    border-radius: 10px;
+    margin-top: 99px;
+}
+
+.d-boxe{
+    background-color: #f3f6fa;
+    padding: 3rem 5rem;
+    border-radius: 9px;
+    text-align: center;
+}
+
+.d-boxe h2{
+    color: #f77b00;
+    margin-bottom: 0;
+}
+
+.d-boxe p{
+    font-size: 1rem;
+}
+
+
+
+/* DISCOUNT CODES SECTION */
+
+.disc-codes{
+    margin: 6   % 0%;
+}
+
+.disc-codes h1{
+    text-align: center;
+}
+
+
+.disc-codes h5{
+    text-align: center;
+    font-size: 1.1rem;
+    color:#48494c;
+}
+
+.disc-codes h1{
+    font-size: 3rem;
+}
+
+
+
