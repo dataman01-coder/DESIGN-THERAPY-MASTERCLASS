@@ -899,11 +899,20 @@ footer{
 /* DISCOUNT CODES SECTION */
 
 .disc-codes{
-margin: 6% 0%;
+    margin: 0 auto;
+    width:80%;
 }
 
+
+.disc-boxes{
+    display:flex;
+    gap:10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 .disc-codes h1{
     text-align: center;
+    margin-top: 7%;
 }
 
 
@@ -911,11 +920,43 @@ margin: 6% 0%;
     text-align: center;
     font-size: 1.1rem;
     color:#48494c;
+    margin-bottom: 7%;
 }
 
 .disc-codes h1{
     font-size: 3rem;
+   
 }
+
+.disc-box{
+    background-color: #f3f3fb;
+    width: 32%;
+    padding: 15px 19px;
+    border-radius: 7px;
+}
+
+
+.sub-inner{
+    display: flex;
+    justify-content: space-between;
+}
+
+.sub-inner h6{
+    padding: 0px;
+}
+
+.disc-code p{
+    background-color:#040351;
+    color: #fff;
+    padding: 10px 5px;
+    margin: 10px 0;;
+}
+
+.disc-bot p{
+    font-size: 0.8rem;
+}
+
+
 
 
 
